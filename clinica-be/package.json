@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "consign": "^0.1.6",
+        "cors": "^2.8.5",
+        "dotenv": "*",
+        "express": "*",
+        "jsonwebtoken": "^8.5.1",
+        "knex": "^0.95.4",
+        "mysql": "*",
+        "mysql2": "^2.2.5",
+        "nodemailer": "^6.6.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
